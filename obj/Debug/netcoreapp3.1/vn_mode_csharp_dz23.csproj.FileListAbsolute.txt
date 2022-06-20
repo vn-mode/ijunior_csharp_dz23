@@ -1,0 +1,13 @@
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz23.deps.json
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz23.runtimeconfig.json
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz23.runtimeconfig.dev.json
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz23.dll
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz23.pdb
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz23.csproj.AssemblyReference.cache
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz23.AssemblyInfoInputs.cache
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz23.AssemblyInfo.cs
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz23.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz23.dll
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz23.pdb
+/Users/mac/Documents/ijunior/vn_mode_csharp_dz23/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz23.genruntimeconfig.cache
